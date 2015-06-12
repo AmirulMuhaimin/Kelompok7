@@ -6,3 +6,4 @@ Rekayasa Perangkat Lunak
 3. Amirul Muhaimin - 1308107010048
 4. Nadhila Nurdin - 1308107010042
 5. Jufrizal - 1308107010003
+6. Nurul Akmal - 1308107010014
